@@ -1,12 +1,11 @@
 .bannere{
-        width: 100%;
-        }
+    width: 100%;
+}
 
 .navbar{
   padding: 1em 0;
   box-shadow: 3px 3px 5px -2px #333;
 }
-
 
 .footer-nonbs {
   border-top: 1px solid #444;

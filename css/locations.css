@@ -15,7 +15,7 @@
 }
 
 .header-nonbs{
-    margin-bottom: 0px;
+    margin-bottom: 20px;
 }
 
 .footer{
@@ -40,5 +40,5 @@ of extra space for the header
 **********************/
 a{
   font-weight:bold;
-  font-size:20rem;
+  font-size:1.6rem;
 }
